@@ -71,6 +71,8 @@
 
     -->
     
-
+    <target name="call">
+        <echo> Hello World! </echo>
+    </target>
     
 </project>
